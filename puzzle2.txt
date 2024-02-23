@@ -1,0 +1,7 @@
+?- solve_puzzle.
+Abigail was born in February on Monday.
+Brenda was born in December on Wednesday.
+Mary was born in June on Sunday.
+Paula was born in March on Friday.
+Tara was born in July on Saturday.
+true.

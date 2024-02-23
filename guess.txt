@@ -1,0 +1,8 @@
+?- start_guessing_game.
+I have chosen a number between 1 and 20. Try to guess it!
+Enter your guess: 10.
+Too low. Try again.
+Enter your guess: 18.
+Too high. Try again.
+Enter your guess: 15.
+Congratulations! You have guessed the number correctly in 3 attempts.

@@ -1,0 +1,3 @@
+?- solve_puzzle.
+[contestant(joanne, giraffe, circus), contestant(winnie, zebra, rock_band), contestant(ralph, moose, spaceship), contestant(lou, seal, magic_train)]
+true.
